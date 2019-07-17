@@ -1,8 +1,7 @@
 # Adaptive Huffman Coding
 
-- **Student ID: 17343149**
 - **Name: 张浩轩**
-- Date: 2019-06-09
+- **Date: 2019-06-09**
 
 
 
